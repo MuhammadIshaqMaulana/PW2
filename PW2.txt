@@ -1,0 +1,5 @@
+php -> adalah . kalo di java
+
+mobil.settext     mobil -> settext
+
+cara extends lebih dari 1 class = menggunakan interface, trait

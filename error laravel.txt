@@ -1,0 +1,18 @@
+Failed to download psy/psysh from dist: The zip extension and unzip/7z commands are both missing, skipping.
+The php.ini used by your command-line PHP is: C:\Users\Laptop Rumah\OneDrive\Documents\catatan kuliah\XAMPP\php\php.ini
+    Now trying to download from source
+
+
+The following exception is caused by a process timeout
+Check https://getcomposer.org/doc/06-config.md#process-timeout for details
+
+In Process.php line 1204:
+
+  The process "git clone --mirror -- https://github.com/bobthecow/psysh.git "C:/Users/Laptop Rumah/AppData/Local/Composer/vcs/https---github.com-bobthecow-psysh.gi   
+  t/"" exceeded the timeout of 300 seconds.
+
+
+install [--prefer-source] [--prefer-dist] [--prefer-install PREFER-INSTALL] [--dry-run] [--download-only] [--dev] [--no-suggest] [--no-dev] [--no-autoloader] [--no-progress] [--no-install] [--audit] [--audit-format AUDIT-FORMAT] [-v|vv|vvv|--verbose] [-o|--optimize-autoloader] [-a|--classmap-authoritative] [--apcu-autoloader] [--apcu-autoloader-prefix APCU-AUTOLOADER-PREFIX] [--ignore-platform-req IGNORE-PLATFORM-REQ] [--ignore-platform-reqs] [--] [<packages>...]
+
+
+ERROR LARAVEL
